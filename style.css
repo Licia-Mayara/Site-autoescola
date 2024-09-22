@@ -1,0 +1,48 @@
+
+
+
+.header-bg { 
+    background-color: #343a40; 
+    color: rgb(183, 212, 238); 
+}
+
+.section-bg {
+    background-color: rgb(183, 212, 238); 
+    padding: 20px; 
+    margin: 20px 0; 
+    border-radius: 10px; 
+}
+
+.footer-bg {
+    background-color: #343a40; 
+    color:  #ffffff;
+    text-align: center; 
+    padding: 10px 0; 
+}
+
+
+.table {
+    background-color: #ffffff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+.btn-primary {
+    background-color: #0056b3; 
+    border-color: #004080; 
+}
+
+
+body {
+    background-color: #f4f4f4;
+}
+
+h2, h3 {
+    color: #003366;
+}
+
+footer p {
+    color: #ffffff;
+}
